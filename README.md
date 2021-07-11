@@ -1,6 +1,5 @@
 # nymeria-website
-Webiste created for Nymeria association
+WebSite de l'Association Nymeria
   
-[Nymeria website](https://gschurck.github.io/nymeria-website)
+[Nymeria Website](https://nymeria.org)
 
-![alt text](https://raw.githubusercontent.com/gschurck/nymeria-website/master/media/screenshot.png "Website Screenshot")
