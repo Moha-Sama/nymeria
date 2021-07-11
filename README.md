@@ -1,5 +1,5 @@
 # nymeria-website
-Webiste created for Nymeria Esport association
+Webiste created for Nymeria association
   
 [Nymeria website](https://gschurck.github.io/nymeria-website)
 
